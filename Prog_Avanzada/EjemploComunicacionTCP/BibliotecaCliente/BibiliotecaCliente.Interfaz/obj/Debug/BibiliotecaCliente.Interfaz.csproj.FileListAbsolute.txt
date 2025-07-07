@@ -1,0 +1,36 @@
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\BibiliotecaCliente.Interfaz.exe.config
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.frmAgregarAutor.resources
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.frmAgregarLibro.resources
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.frmConsultarLibros.resources
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.frmPrincipal.resources
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.Properties.Resources.resources
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.csproj.GenerateResource.Cache
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\BibiliotecaCliente.Interfaz.exe
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\BibiliotecaCliente.Interfaz.pdb
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.exe
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.pdb
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.csprojResolveAssemblyReference.cache
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\BibiliotecaServidor.Entidades.dll
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\Newtonsoft.Json.dll
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\Newtonsoft.Json.xml
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\BibiliotecaCliente.Interfaz.exe.config
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.exe
+D:\Google Drive\UNED Henry\2017\I Cuatrimestre\Elab Instrumentos\Programas tutorias\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.pdb
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\BibiliotecaCliente.Interfaz.exe.config
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\BibiliotecaCliente.Interfaz.exe
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\BibiliotecaCliente.Interfaz.pdb
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\BibiliotecaServidor.Entidades.dll
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\Newtonsoft.Json.dll
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\Newtonsoft.Json.xml
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.frmAgregarAutor.resources
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.frmAgregarLibro.resources
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.frmConsultarLibros.resources
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.frmPrincipal.resources
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.Properties.Resources.resources
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.csproj.GenerateResource.cache
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.csproj.CoreCompileInputs.cache
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.exe
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.pdb
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.csproj.AssemblyReference.cache
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\BibiliotecaServidor.Entidades.pdb
+D:\U-Temp\Programacion Avanzada c# 830\4-Tutoría 0830\Tutoria IV\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\BibiliotecaCliente.Interfaz.csproj.CopyComplete

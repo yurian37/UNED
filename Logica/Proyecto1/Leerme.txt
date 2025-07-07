@@ -1,0 +1,3 @@
+Docx, es el documento a revisar
+DFD, es el algoritmo usado para la parte 3, en caso de que se le cierre el DFD hacer esta solucion del video https://www.youtube.com/watch?v=2SmTCu9ZJiI
+PSC, Es lo que logre de la parte 3 que al final se elimino, pero me gustaria de ser posible revisarlo juntos por que no entiendo por que el informe diario no me recibe los valores y los retorna a 0, por lo que ese informe siempre me da 0

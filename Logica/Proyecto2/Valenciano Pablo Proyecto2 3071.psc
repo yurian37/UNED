@@ -1,0 +1,195 @@
+Algoritmo Main
+	Escribir"===================================================";
+	Escribir"Bienvenido a la simulación para crédito de vivienda";
+	Escribir"===================================================";
+	Escribir"Digite cualquier tecla";
+	Esperar Tecla;
+	Limpiar Pantalla;
+	//Variables Control
+	Definir Continuar como Caracter;
+	Definir Pasos Como Entero;
+	Continuar="S";
+	Pasos=1;
+	//Variables Finales
+	Definir MontoPT, MontoFT, ComT, AvalT, GastNT Como Real;
+	MontoPT=0;
+	MontoFT=0;
+	ComT=0;
+	AvalT=0;
+	GastNT=0;
+	//Constantes
+	Definir PorcMen, PorcPol, PorcCom, PorcAval, PorcGas, PorcPri Como Real;
+	PorcMen=0.0085;
+	PorcPol=0.0024;
+	PorcCom=0.01;
+	PorcAval=0.003;
+	PorcGas=0.08;
+	PorcPri=0.18;
+	//Declaracion de Variables de Verificacion
+	Definir Id como Entero;
+	Definir Buen_Historial como Caracter;
+	Definir ValorPropiedad como Entero;
+	Definir Ingresos como Entero;
+	Definir Gastos como Entero;
+	Definir Papeles_Completos como Caracter;
+	//Variables de datos por Usuario
+	Definir MontoCredito Como Real;
+	Definir Mensualidad, Poliza, CobroMensual Como Real;
+	Definir Comision, Avaluo, GastosNotariales, GastosIniciales Como Real;
+	Definir Prima Como Real;
+	Repetir
+		Segun Pasos Hacer
+			1:
+				//Identificacion y Historial
+				Buen_Historial="N";
+				Id=0;
+				Escribir"Número de identificación";
+				Leer Id;
+				Escribir"¿Cuenta con un historial crediticio? (S/N)";
+				Leer Buen_Historial;
+				Si Buen_Historial="S" O Buen_Historial="s" entonces
+					Pasos=2;
+				Sino
+					Escribir"El solicitante ", ID, " no cuenta con buen historial crediticio";
+					Pasos=7;
+				FinSi
+			2:
+				//Preguntar el valor de la propiedad este debe ser mayor a 0
+				ValorPropiedad = 0;
+				Mientras ValorPropiedad <= 0 Hacer
+					Escribir"Valor de la Propiedad";
+					Leer ValorPropiedad;
+					Si ValorPropiedad <= 0 Entonces
+						Escribir"El valor indicado no es mayor a 0";
+						Pasos=2;
+					SiNo
+						Pasos=3;
+					FinSi
+				FinMientras
+			3:
+				//Preguntar el valor de los ingresos este debe ser mayor a 0
+				Ingresos = 0;
+				Mientras Ingresos <= 0 Hacer
+					Escribir"Digite sus ingresos brutos";
+					Leer Ingresos;
+					Si Ingresos <= 0 Entonces
+						Escribir"El valor indicado no es mayor a 0";
+						Pasos=3;
+					SiNo
+						Pasos=4;
+					FinSi
+				FinMientras
+			4:
+				//Preguntar el valor de los gastos este debe ser mayor a 0
+				Gastos = 0;
+				Mientras Gastos <= 0 Hacer
+					Escribir"Digite el total de sus gastos mensuales";
+					Leer Gastos;
+					Si Gastos <= 0 Entonces
+						Escribir "El valor indicado no es mayor a 0";
+						Pasos=4;
+					FinSi
+				FinMientras
+				Si Ingresos-Gastos <Ingresos*0.3 Entonces
+					Escribir"El solicitante ", ID, " no puede cubrir la cuota";
+					Escribir"Ingresos------------------->",Ingresos;
+					Escribir"Gastos--------------------->",Gastos;
+					Escribir"Ingresos Libres Requeridos->",Ingresos*0.3;
+					Escribir"Ingresos Libres------------>",Ingresos-Gastos;
+					Pasos=7;
+				SiNo
+					Pasos=5;
+				FinSi
+			5:
+				//Papeles al dia
+				Papeles_Completos="N";
+				Escribir"Se valida si cuenta con los siguientes papeles";
+				Escribir"==============================================";
+				Escribir"> Constancia salarial o certificación de ingresos";
+				Escribir"> Copia de la escritura";
+				Escribir"> Plano catastral";
+				Escribir"> Copia de recibo de agua, luz o teléfono";
+				Escribir"> Constancia salar";
+				Escribir"> Presupuesto de construcción";
+				Escribir"> Permisos minicipales";
+				Escribir"> Los papeles tienes menos de un mes";
+				Escribir"==============================================";
+				Escribir"Cuenta con los papeles anteriores S/N";
+				Leer Papeles_Completos;
+				Si Papeles_Completos = "S" O Papeles_Completos="s" Entonces
+					Pasos=6;
+				Sino
+					Escribir"El solicitante ",ID, " no cumple con los papeles requeridos";
+					Pasos=7;
+				FinSi
+			6:
+				//Analisis
+				Escribir"Montos para realizar el estudio";
+				Escribir"========================================================================================";
+				Escribir"Valor de la propiedad.................................",ValorPropiedad;
+				Si ValorPropiedad>100000000 Entonces
+					MontoCredito=ValorPropiedad*0.7;
+				SiNo
+					MontoCredito=ValorPropiedad*0.8;
+				FinSi
+				Escribir"Monto del crédito.....................................",MontoCredito;
+				Escribir"========================================================================================";
+				Escribir"Detalle de cálculos:";
+				Mensualidad=MontoCredito*PorcMen;
+				Poliza=MontoCredito*PorcPol;
+				Escribir"";
+				Escribir"Mensualidad............................................",Mensualidad;
+				Escribir"Póliza.................................................",Poliza;
+				Escribir"________________________________________________________________________________________";
+				CobroMensual=Mensualidad+Poliza;
+				Escribir"Total mensual..........................................",CobroMensual;
+				Escribir"";
+				Comision=MontoCredito*PorcCom;
+				Avaluo=ValorPropiedad*PorcAval;
+				GastosNotariales=MontoCredito*PorcGas;
+				Escribir"Comisión...............................................",Comision;
+				Escribir "Avalúo.................................................",Avaluo;
+				Escribir "Gastos Notariales......................................",GastosNotariales;
+				Escribir "________________________________________________________________________________________";
+				GastosIniciales=Comision+Avaluo+GastosNotariales;
+				Escribir "Gastos Iniciales.......................................",GastosIniciales;
+				Escribir "";
+				Prima=MontoCredito*PorcPri;
+				Escribir "Prima..................................................",Prima;
+				Escribir "========================================================================================";
+				Escribir "";
+				Escribir "========================================================================================";
+				Escribir "¡El solictante ", ID," califica para el crédito!, el Banco ha aprobado al crédito";
+				Escribir "========================================================================================";
+				Escribir "*******Detalle del Crédito*******";
+				Escribir "Plazo-----------------------------> 30";
+				Escribir "Valor de la propiedad-------------> ",ValorPropiedad;
+				Escribir "Monto de financiamiento-----------> ",MontoCredito;
+				Escribir "Total de pago mensual-------------> ",CobroMensual;
+				Escribir "Monto de gastos iniciales---------> ",GastosIniciales;
+				Escribir "Monto de la prima-----------------> ",Prima;
+				//Datos para el reporte final
+				MontoPT=MontoPT+ValorPropiedad;
+				MontoFT=MontoFT+MontoCredito;
+				ComT=ComT+Comision;
+				AvalT=AvalT+Avaluo;
+				GastNT=GastNT+GastosNotariales;
+				Pasos=7;
+			7:
+				Escribir "¿Desea procesar otro cliente S/N?";
+				Leer Continuar;
+				Pasos=1;
+				Limpiar Pantalla;
+			De Otro Modo:
+				Pasos=1;
+		FinSegun
+	Hasta Que Continuar="N" O Continuar="n" 
+	Escribir "============================================================================================================";
+	Escribir "**************************************Reporte Final*********************************************************";
+	Escribir "Monto total de préstamos solicitados aprobados:",MontoPT;
+	Escribir "Monto total de financiamientos aprobado:.......",MontoFT;
+	Escribir "Total de comisiones aprobadas:.................",ComT;
+	Escribir "Total de avaluós:..............................",AvalT;
+	Escribir "Monto total de gastos notariales:..............",GastNT;
+	Escribir "============================================================================================================";
+FinAlgoritmo

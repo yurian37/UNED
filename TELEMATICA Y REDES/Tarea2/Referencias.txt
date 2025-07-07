@@ -1,0 +1,2 @@
+Ingeniería Telecomunicaciones UNED. [Nombre de usuario en Youtube] (2021). ¿Cómo configurar un router en GNS3? [Video]. Youtube. https://www.youtube.com/watch?v=PHJwfUFLngs
+Bagci, T. (15 de enero 2020). How to Configure Cisco Router in GNS3 Basically. https://www.sysnettechsolutions.com/en/configure-cisco-router-gns3/#jump-10

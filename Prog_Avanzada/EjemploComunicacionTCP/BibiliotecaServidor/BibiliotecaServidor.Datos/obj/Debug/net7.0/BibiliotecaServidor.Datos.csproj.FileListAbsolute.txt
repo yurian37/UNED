@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net7.0\BibiliotecaServidor.Datos.deps.json
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net7.0\BibiliotecaServidor.Datos.dll
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net7.0\BibiliotecaServidor.Datos.pdb
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net7.0\BibiliotecaServidor.Entidades.dll
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net7.0\BibiliotecaServidor.Entidades.pdb
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net7.0\BibiliotecaServidor.Datos.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net7.0\BibiliotecaServidor.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net7.0\BibiliotecaServidor.Datos.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net7.0\BibiliotecaServidor.Datos.csproj.CopyComplete
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net7.0\BibiliotecaServidor.Datos.dll
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net7.0\refint\BibiliotecaServidor.Datos.dll
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net7.0\BibiliotecaServidor.Datos.pdb
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net7.0\ref\BibiliotecaServidor.Datos.dll

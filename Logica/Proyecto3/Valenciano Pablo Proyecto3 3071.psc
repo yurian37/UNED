@@ -1,0 +1,266 @@
+Algoritmo Main
+	//Declaracion
+	//Variables de Control Globables
+	Definir Step_1, Step_2, Salir Como Logico;
+	Definir Decision Como Entero;
+	//Constantes Globales
+	Definir Num_Partidos, Num_Provincias Como Entero;
+	//Control Ciclico Interno
+	Definir i,j, k Como Entero;
+	//Datos de salida
+	Definir Matriz_Votaciones, Votos_Esperados Como Entero;
+	Definir Contador_Votos, Provincia_Escogida, Votos_Max, Partido_Max_Votos Como Entero;
+	Definir VEP, VV, VN, VA Como Entero;
+	//Inicializacion de Variables
+	Step_1=Falso;
+	Step_2=Falso;
+	Salir=Falso;
+	Decision=0;
+	Contador_Votos=0;
+	Provincia_Escogida=0;
+	Votos_Max=0;
+	Partido_Max_Votos=0;
+	VEP=0;
+	VV=0;
+	VN=0;
+	VA=0;
+	//Constantes
+	Num_Provincias=7;
+	Num_Partidos=4;
+	//Creacion de matrices y vector 
+	Dimension Matriz_Votaciones(Num_Provincias,Num_Partidos+2);
+	Dimension Votos_Esperados[Num_Provincias];
+	//Mensaje de Bienvenida
+	Escribir "===========================================================================";
+	Escribir "****** Bienvenido al resultado de las elecciones de febrero del 2018******";
+	Escribir "===========================================================================";
+	Escribir "Digite cualquier tecla para continuar";
+	Esperar Tecla;
+	Limpiar Pantalla;
+	//Menu
+	Mientras Salir=Falso Hacer
+		//Menu
+		Escribir "Menú principal";
+		Escribir "1. Inicializar la matriz con las votaciones";
+		Escribir "2. Inicializar el vector con los votantes esperados por provincia";
+		Escribir "3. Reporte de votos por partido político";
+		Escribir "4. Reporte de votos válidos y nulos por provincia";
+		Escribir "5. Reporte de partido con mayor número de votos en cierta provincia";
+		Escribir "6. Reporte general de votos";
+		Escribir "7. Salir";
+		Leer Decision;
+		Limpiar Pantalla;
+		Segun Decision hacer
+			1:
+				Step_1=Verdadero;
+				Escribir "Matriz llenada exitosamente!";
+				Escribir "===========================================";
+				Escribir "Digite cualquier tecla para mostrar la matriz";
+				Esperar Tecla;
+				Limpiar Pantalla;
+				Escribir "Votaciones para los 4 partidos";
+				Escribir "===========================================";
+				Escribir "           " Sin Saltar;
+				Para j<-1 Hasta Num_Partidos Con Paso 1 Hacer
+					Escribir "    P",j Sin Saltar;
+				FinPara
+				Escribir "   Nulos",;
+				Para i<-0 hasta Num_Provincias-1 Con Paso 1 Hacer
+					Escribir "Provincia " sin Saltar;
+					Matriz_Votaciones(i,0)=i+1;
+					Escribir Matriz_Votaciones(i,0), " " Sin Saltar;
+					Para j<-1 Hasta Num_Partidos+1 Con Paso 1 Hacer
+						Matriz_Votaciones(i,j)=Aleatorio(0,800);
+						Si Matriz_Votaciones(i,j)<10 Entonces 
+							Escribir "    ", Matriz_Votaciones(i,j), " " Sin Saltar;
+						SiNo
+							Si Matriz_Votaciones(i,j)<100 Entonces
+								Escribir "   ", Matriz_Votaciones(i,j), " " Sin Saltar;
+							SiNo
+								Escribir "  ", Matriz_Votaciones(i,j), " " Sin Saltar;
+							FinSi
+						FinSi
+					FinPara
+					Escribir "";
+				FinPara
+				Escribir "===========================================";
+				Escribir "Digite cualquier tecla para continuar";
+				Esperar Tecla;
+				Limpiar Pantalla;
+			2:
+				Step_2=Verdadero;
+				Escribir "===========================================";
+				Escribir "Votos esperados por provincia              ";
+				Escribir "===========================================";
+				Para k<-0 hasta Num_Provincias-1 Con Paso 1 Hacer
+					Votos_Esperados[k]=Aleatorio(3200,4000);
+					Escribir "Votos esperados para la provincia ",k+1,":  ", Votos_Esperados[k];
+				FinPara
+				Escribir "===========================================";
+				Escribir "Digite cualquier tecla para continuar";
+				Esperar Tecla;
+				Limpiar Pantalla;
+			3,4,5,6:
+				Si Step_1=Falso o Step_2=Falso Entonces
+					Si Step_1=Falso Entonces
+						Escribir "Falta de aplicar la opcion 1 previo a ejecutar esta opcion";
+					FinSi
+					Si Step_2=Falso Entonces
+						Escribir "Falta de aplicar la opcion 2 previo a ejecutar esta opcion";
+					FinSi
+				SiNo
+					Escribir "Votaciones para los 4 partidos";
+					Escribir "===========================================";
+					Escribir "           " Sin Saltar;
+					Para j<-1 Hasta Num_Partidos Con Paso 1 Hacer
+						Escribir "    P",j Sin Saltar;
+					FinPara
+					Escribir "   Nulos",;
+					Para i<-0 hasta Num_Provincias-1 Con Paso 1 Hacer
+						Escribir "Provincia " sin Saltar;
+						Escribir Matriz_Votaciones(i,0), " " Sin Saltar;
+						Para j<-1 Hasta Num_Partidos+1 Con Paso 1 Hacer
+							Si Matriz_Votaciones(i,j)<10 Entonces 
+								Escribir "    ", Matriz_Votaciones(i,j), " " Sin Saltar;
+							SiNo
+								Si Matriz_Votaciones(i,j)<100 Entonces
+									Escribir "   ", Matriz_Votaciones(i,j), " " Sin Saltar;
+								SiNo
+									Escribir "  ", Matriz_Votaciones(i,j), " " Sin Saltar;
+								FinSi
+							FinSi
+						FinPara
+						Escribir "";
+					FinPara
+					Escribir "===========================================";
+					//Analisis
+					Segun Decision Hacer
+						3:
+							Escribir "Total de votos de cada partido";
+							Escribir "===========================================";
+							Para j<-1 hasta Num_Partidos Con Paso 1 Hacer
+								Escribir "Total de votos del partido P" sin Saltar;
+								Escribir j, " " Sin Saltar;
+								Contador_Votos=0;
+								Para i<-0 Hasta Num_Provincias-1 Con Paso 1 Hacer
+									Contador_Votos=Contador_Votos+Matriz_Votaciones(i,j);
+								FinPara
+								Escribir Contador_Votos, "";
+							FinPara
+							Escribir "";
+							Escribir "===========================================";
+						4:
+							Escribir "Total de votos validos y nulos de cada provincia";
+							Escribir "===========================================";
+							Para i<-0 hasta Num_Provincias-1 Con Paso 1 Hacer
+								Escribir "Total de votos validos de la Provincia " sin Saltar;
+								Escribir i+1, " " Sin Saltar;
+								Contador_Votos=0;
+								Para j<-1 Hasta Num_Partidos Con Paso 1 Hacer
+									Contador_Votos=Contador_Votos+Matriz_Votaciones(i,j);
+								FinPara
+								Escribir Contador_Votos, "";
+								Escribir "Total de votos nulos de la Provincia " sin Saltar;
+								Escribir i+1, " " Sin Saltar;
+								Escribir Matriz_Votaciones(i,Num_Partidos+1), "";
+								Escribir "";
+							FinPara
+							Escribir "";
+							Escribir "===========================================";
+						5:
+							Provincia_Escogida=0;
+							Mientras Provincia_Escogida > Num_Provincias o Provincia_Escogida <= 0 Hacer
+								Escribir "Digite un número de provincia para mostrarle cual partido obtuvo el mayor numero de votos";
+								Leer Provincia_Escogida;
+								Si Provincia_Escogida > Num_Provincias o Provincia_Escogida <= 0 Entonces
+									Escribir "Valor no valido, el valor debe ser entre el valor 1 y ", Num_Provincias;
+								FinSi
+							FinMientras
+							Escribir "";
+							Escribir "===========================================";
+							Votos_Max=0;
+							Partido_Max_Votos=0;
+							Para j<-1 Hasta Num_Partidos Con Paso 1 Hacer
+								Si Matriz_Votaciones(Provincia_Escogida-1,j)>Votos_Max Entonces
+									Votos_Max=Matriz_Votaciones(Provincia_Escogida-1,j);
+									Partido_Max_Votos=j;
+								FinSi
+							FinPara
+							Escribir "Partido con mayor cantidad de votos en la provincia ",Provincia_Escogida, " es el P", Partido_Max_Votos, " con ", Votos_Max, " votos";
+						6:
+							Escribir "====================================================================================================================================================";
+							Escribir "Provincia |votos esperados |validos |nulos |No emitidos |% de abstencionismo |% Emitidos |% Nulos |% Validos";
+							Para i<-0 hasta Num_Provincias-1 Con Paso 1 Hacer
+								//Num de Provincia
+								Escribir Matriz_Votaciones(i,0) Sin Saltar;
+								Escribir "          " Sin Saltar;
+								//Votos esperados
+								VEP=Votos_Esperados[i];
+								Escribir VEP Sin Saltar;
+								Escribir "             " Sin Saltar;
+								//Votos Validos
+								VV=0;
+								Para j<-1 Hasta Num_Partidos Con Paso 1 Hacer
+									VV=VV+Matriz_Votaciones(i,j);
+								FinPara
+								Si VV>= 1000 Entonces Escribir VV Sin Saltar;
+								Sino Si VV>= 100 Entonces Escribir " ", VV Sin Saltar;
+									SiNo Si VV>= 10 Entonces Escribir "  ", VV Sin Saltar;
+										Sino Escribir "   ", VV Sin Saltar;
+										FinSi
+									FinSi
+								FinSi
+								Escribir "     " Sin Saltar;
+								//Votos nulos
+								VN=Matriz_Votaciones(i,Num_Partidos+1);
+								Si VN>= 100 Entonces Escribir VN Sin Saltar;
+								SiNo Si VN>= 10 Entonces Escribir " ", VN Sin Saltar;
+									Sino Escribir "  ", VN Sin Saltar;
+									FinSi
+								FinSi
+								Escribir "    " Sin Saltar;
+								//Votos no emitidos
+								VA=VEP-(VV+VN);
+								Si VA>= 1000 Entonces Escribir VA Sin Saltar;
+								Sino Si VA>= 100 Entonces Escribir " ", VA Sin Saltar;
+									SiNo Si VA>= 10 Entonces Escribir "  ", VA Sin Saltar;
+										Sino Escribir "   ", VA Sin Saltar;
+										FinSi
+									FinSi
+								FinSi
+								Escribir "         " Sin Saltar;
+								//% de abstencionismo
+								Escribir trunc((VA/VEP)*10000)/100 Sin Saltar;
+								Escribir "               " Sin Saltar;
+								Para k<-0 Hasta 5-longitud(ConvertirATexto(trunc((VA/VEP)*10000)/100)) Con Paso 1 Hacer
+									Escribir " " Sin Saltar;
+								FinPara
+								//% de emitidos
+								Escribir trunc(((VV+VN)/VEP)*10000)/100 Sin Saltar;
+								Escribir "      " Sin Saltar;
+								Para k<-0 Hasta 5-longitud(ConvertirATexto(trunc(((VV+VN)/VEP)*10000)/100)) Con Paso 1 Hacer
+									Escribir " " Sin Saltar;
+								FinPara
+								//% de Nulos
+								Escribir trunc((VN/VEP)*10000)/100 Sin Saltar;
+								Escribir "   " Sin Saltar;
+								Para k<-0 Hasta 5-longitud(ConvertirATexto(trunc((VN/VEP)*10000)/100)) Con Paso 1 Hacer
+									Escribir " " Sin Saltar;
+								FinPara
+								//% de Validos
+								Escribir trunc((VV/VEP)*10000)/100;
+							FinPara
+					FinSegun
+				FinSi
+				Escribir "Digite cualquier tecla para continuar";
+				Esperar Tecla;
+				Limpiar Pantalla;
+			7: Salir=Verdadero;
+			De Otro Modo:
+				Escribir "Valor no valido.";
+				Escribir "Digite cualquier tecla para continuar";
+				Esperar Tecla;
+				Limpiar Pantalla;
+		FinSegun
+	FinMientras
+FinAlgoritmo

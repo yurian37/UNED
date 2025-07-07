@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1681571755 source:c:\uned\introduccion a la programacion\proyecto\proyecto_1\funciones.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<string>
+	<vector>
+	"windows.h"
+	<cstdio>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<ctime>
+
+1681571755 source:c:\uned\introduccion a la programacion\proyecto\proyecto_1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Funciones.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<algorithm>
+	<ctime>
+	<iomanip>
+
+1681418567 c:\uned\introduccion a la programacion\proyecto\proyecto_1\funciones.h
+	<string>
+	<vector>
+	"windows.h"
+	<fstream>
+	<ctime>
+

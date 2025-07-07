@@ -1,0 +1,173 @@
+ Dfd (c)
+1
+1
+3
+0
+0
+6
+3
+13
+Currency_Week
+1
+0
+12
+Currency_Day
+1
+0
+5
+Value
+15
+'no es feriado'
+4
+1
+55
+'Calculo del Salario semanal de un guarda de Seguridad'
+8
+1
+4
+Days
+1
+1
+1
+1
+1
+3
+1
+1
+1
+12
+1
+11
+Ask_Holiday
+1
+11
+Days, Value
+4
+1
+26
+'El dia ', Days,' ' ,Value
+12
+1
+18
+Get_Currency_byDay
+1
+19
+Currency_Day, Value
+6
+1
+13
+Currency_Week
+26
+Currency_Week+Currency_Day
+10
+4
+1
+56
+'El total a cobrar para esta semana es: ', Currency_Week
+1
+2
+1
+11
+Ask_Holiday
+1
+11
+Days, Value
+0
+4
+1
+61
+'El dia ', Days, ' si es feriado?. Digite 1 en caso de serlo'
+5
+1
+10
+Is_Holiday
+7
+0
+1
+12
+Is_Holiday=1
+6
+1
+5
+Value
+15
+'no es feriado'
+13
+6
+1
+5
+Value
+12
+'es feriado'
+13
+3
+2
+1
+18
+Get_Currency_byDay
+1
+19
+Currency_Day, Value
+0
+7
+0
+1
+18
+Value='es feriado'
+4
+1
+50
+'Ingrese horas en el orden: Diurno, tarde y noche'
+5
+1
+20
+Morning, Late, Night
+6
+3
+11
+Cur_Morning
+12
+Morning*3000
+8
+Cur_Late
+9
+Late*3500
+9
+Cur_Night
+13
+Night*4250.25
+13
+4
+1
+31
+'Ingrese la cantidad de horas:'
+5
+1
+5
+Hours
+6
+3
+11
+Cur_Morning
+10
+Hours*5000
+8
+Cur_Late
+1
+0
+9
+Cur_Night
+1
+0
+13
+6
+1
+12
+Currency_Day
+30
+Cur_Morning+Cur_Late+Cur_Night
+4
+1
+42
+'A cobrar por este dia es: ', Currency_Day
+3

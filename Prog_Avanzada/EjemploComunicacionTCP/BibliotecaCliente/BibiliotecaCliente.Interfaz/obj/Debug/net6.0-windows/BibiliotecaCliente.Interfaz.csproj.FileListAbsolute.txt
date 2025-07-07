@@ -1,0 +1,208 @@
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.exe
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.dll.config
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.deps.json
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.runtimeconfig.json
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ref\BibiliotecaCliente.Interfaz.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.pdb
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Management.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Speech.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Entidades.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Entidades.pdb
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.csproj.AssemblyReference.cache
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.frmAgregarAutor.resources
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.frmAgregarLibro.resources
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.frmConsultarLibros.resources
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.frmPrincipal.resources
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.Properties.Resources.resources
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.csproj.GenerateResource.cache
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.csproj.CoreCompileInputs.cache
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.csproj.CopyComplete
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\ref\BibiliotecaCliente.Interfaz.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.pdb
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.genruntimeconfig.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.exe
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.dll.config
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.deps.json
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.runtimeconfig.json
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Entidades.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Entidades.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.csproj.AssemblyReference.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.frmAgregarAutor.resources
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.frmAgregarLibro.resources
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.frmConsultarLibros.resources
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.frmPrincipal.resources
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.Properties.Resources.resources
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.csproj.GenerateResource.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.csproj.CopyComplete
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\refint\BibiliotecaCliente.Interfaz.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\BibiliotecaCliente.Interfaz.genruntimeconfig.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibliotecaCliente\BibiliotecaCliente.Interfaz\obj\Debug\net6.0-windows\ref\BibiliotecaCliente.Interfaz.dll

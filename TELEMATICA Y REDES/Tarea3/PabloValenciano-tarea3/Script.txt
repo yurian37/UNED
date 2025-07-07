@@ -1,0 +1,216 @@
+Script
+=================
+Configuracion Basica Router 1
+================
+
+enable
+conf terminal
+hostname Router1
+no ip domain-lookup
+enable password gns3
+line console 0
+password tarea3
+login
+exit
+line vty 0 4
+password tarea3
+login
+exit
+service password-encryption
+banner motd #
+$"Authorized Users Only!"$#
+do wr
+
+=================
+Configuracion Basica Router 2
+================
+
+enable
+conf terminal
+hostname Router2
+no ip domain-lookup
+enable password gns3
+line console 0
+password tarea3
+login
+exit
+line vty 0 4
+password tarea3
+login
+exit
+service password-encryption
+banner motd #
+$"Authorized Users Only!"$#
+do wr
+
+
+===============
+Configuration Fast Ethernet y Serial Router1
+===============
+conf terminal
+interface FastEthernet 0/0
+ip address 192.168.100.1 255.255.255.0
+duplex full
+no shutdown
+exit
+interface serial 1/0
+ip address 10.0.0.1 255.255.255.252
+no shutdown
+exit
+do wr
+
+===============
+Configuration Fast Ethernet y Serial Router2
+===============
+conf terminal
+interface FastEthernet 0/0
+ip address 192.168.200.1 255.255.255.0
+duplex full
+no shutdown
+exit
+interface serial 1/0
+ip address 10.0.0.2 255.255.255.252
+no shutdown
+exit
+do wr
+
+============
+Configurar VLAN Router 1
+============
+conf terminal
+interface FastEthernet 0/0.1
+encapsulation dot1q 1
+ip address 192.168.100.10 255.255.255.0
+no shutdown
+ip default-gateway 192.168.100.1
+do wr
+
+============
+Configurar VLAN Router 2
+============
+conf terminal
+interface FastEthernet 0/0.1
+encapsulation dot1q 1
+ip address 192.168.200.10 255.255.255.0
+ip default-gateway 192.168.200.1
+do wr
+
+=====
+Configurar Velocidad del Serial solo R1
+=====
+conf terminal
+interface serial 1/0
+clock rate 64000
+exit
+do wr
+
+======
+Configurar dhcp Router1
+======
+config terminal
+service dhcp
+ip dhcp excluded-address 192.168.100.2 192.168.100.11
+ip dhcp pool RED-1
+network 192.168.100.0 255.255.255.0
+default-router 192.168.100.1
+dns-server 8.8.8.8
+exit
+do wr
+
+======
+Configurar dhcp Router2
+======
+config terminal
+service dhcp
+ip dhcp excluded-address 192.168.200.2 192.168.200.11
+ip dhcp pool RED-2
+network 192.168.200.0 255.255.255.0
+default-router 192.168.200.1
+dns-server 8.8.8.8
+exit
+do wr
+
+====
+Mostrar Info
+=====
+show ip dhcp pool
+show ip dhcp binding
+
+=====
+Enrutamiento Router 1
+=====
+conf terminal
+router rip
+version 2
+network 192.168.100.0
+network 10.0.0.0
+exit
+do wr
+
+=====
+Enrutamiento Router 2
+=====
+conf terminal
+router rip
+version 2
+network 192.168.200.0
+network 10.0.0.0
+exit
+do wr
+
+=====
+Configuracion basica SW1
+=====
+
+enable
+conf terminal
+hostname Switch1
+no ip domain-lookup
+enable password gns3
+line console 0
+password gnstres
+login
+exit
+line vty 0 4
+password gnstres
+login
+exit
+service password-encryption
+banner motd #
+$"Authorized Users Only!"$#
+do wr
+
+=====
+Configuracion basica SW2
+=====
+
+enable
+conf terminal
+hostname Switch2
+no ip domain-lookup
+enable password gns3
+line console 0
+password gnstres
+login
+exit
+line vty 0 4
+password gnstres
+login
+exit
+service password-encryption
+banner motd #
+$"Authorized Users Only!"$#
+do wr
+
+====
+Configuracion VLAN SW1/SW2
+====
+conf terminal
+interface fastEthernet 1/0
+no shutdown
+switchport mode trunk
+switchport trunk encapsulation dot1q
+exit
+do wr
+
+https://drive.google.com/file/d/1lGBcLiXdS-P3-neHqN1ED3fCHUQ1-K6H/view?usp=sharing

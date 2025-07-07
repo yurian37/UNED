@@ -1,0 +1,14 @@
+La primera pantalla sera de Logueo, para ello es necesario que digites un Usuario Valido y la contraseña asociada a usuario.
+Dummy--> User: Usuario1 / Pwd: Pwd1
+Si deseas agregar mas, entra al archivo Usuarios.txt y coloque al fin de la archivo el usuario y separado con un espacion su contrasena.
+Se tiene 3 intentos para ingresar uno valido, sino el programa se cierra
+
+Ya dentro del menu, esta Salir, que termina el programa.
+Tambien departamentos que puede agregar con la opcion registrar. En Release el archivo esta vacio. Este se archivo se manipula automatica, no escribir nada manual.
+Y consultar que son dos busqueda por codigo o dsc_dpto.
+
+Para el caso de registrar, se captura dos error en caso de que digites un departamento o codigo ya existe y se indica a cual pertenece.
+
+Para la opcion activos hay 3 opciones, Registar que hace lo mismo pero captura mas datos por parte del usuario. Este no tiene excepciones.
+Tambien consultar, y este desplega un menu si desea buscar por persona o por departamento.
+Por ultimo registro general que imprime toda la informacion del archivo.

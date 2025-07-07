@@ -1,0 +1,9 @@
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Entidades\bin\Debug\net7.0\BibiliotecaServidor.Entidades.deps.json
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Entidades\bin\Debug\net7.0\BibiliotecaServidor.Entidades.dll
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Entidades\bin\Debug\net7.0\BibiliotecaServidor.Entidades.pdb
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Entidades\obj\Debug\net7.0\BibiliotecaServidor.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Entidades\obj\Debug\net7.0\BibiliotecaServidor.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Entidades\obj\Debug\net7.0\BibiliotecaServidor.Entidades.dll
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Entidades\obj\Debug\net7.0\refint\BibiliotecaServidor.Entidades.dll
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Entidades\obj\Debug\net7.0\BibiliotecaServidor.Entidades.pdb
+C:\Users\user\Downloads\BibiliotecaServidor\BibiliotecaServidor.Entidades\obj\Debug\net7.0\ref\BibiliotecaServidor.Entidades.dll

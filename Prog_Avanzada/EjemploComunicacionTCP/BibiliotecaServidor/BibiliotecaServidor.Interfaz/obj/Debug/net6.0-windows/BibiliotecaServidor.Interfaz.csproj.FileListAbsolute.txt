@@ -1,0 +1,58 @@
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.csproj.AssemblyReference.cache
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.frmServidor.resources
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.Properties.Resources.resources
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.csproj.GenerateResource.cache
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.csproj.CoreCompileInputs.cache
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.exe
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.dll.config
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.deps.json
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.runtimeconfig.json
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\ref\BibiliotecaServidor.Interfaz.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.pdb
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Datos.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Entidades.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Datos.pdb
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Entidades.pdb
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.csproj.CopyComplete
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\ref\BibiliotecaServidor.Interfaz.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.pdb
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.genruntimeconfig.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.exe
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.dll.config
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.deps.json
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.runtimeconfig.json
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Datos.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Entidades.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Datos.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\bin\Debug\net6.0-windows\BibiliotecaServidor.Entidades.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.csproj.AssemblyReference.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.frmServidor.resources
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.Properties.Resources.resources
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.csproj.GenerateResource.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.csproj.CopyComplete
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\refint\BibiliotecaServidor.Interfaz.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\BibiliotecaServidor.Interfaz.genruntimeconfig.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Interfaz\obj\Debug\net6.0-windows\ref\BibiliotecaServidor.Interfaz.dll

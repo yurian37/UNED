@@ -1,0 +1,76 @@
+
+Parte 2. Seccion 1. Configuracion Basica 
+## Script ##
+R1#enable
+R1#config terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#hostname router
+router(config)#no ip domain-lookup
+router(config)#enable password gns3
+router(config)#line console 0
+router(config-line)#password tarea2
+router(config-line)#login
+router(config-line)#exit
+router(config)#line vty 0 4
+router(config-line)#password tarea2
+router(config-line)#login
+router(config-line)#exit
+router(config)#service password-encryption
+router(config)#banner motd #
+Enter TEXT message.  End with the character '#'.
+$"Authorized Users Only"$#
+router(config)#exit
+router#wr
+router#clock set 12:00:00 6 Jun 2006
+router#
+Jun  6 12:00:00.000: %SYS-6-CLOCKUPDATE: System clock has been updated from 21:30:28 UTC Sun Jul 2 2023 to 12:00:00 UTC Tue Jun 6 200sole by console.
+## Script ##
+
+Parte 2. Seccion 2 Configuracion IP y DHCPv4
+## Script ##
+router#config terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+router(config)#interface FastEthernet 0/0
+router(config-if)#ip address 192.168.0.1 255.255.255.0
+router(config-if)#no shutdown
+router(config-if)#exit
+Jun  6 12:05:13.131: %LINK-3-UPDOWN: Interface FastEthernet0/0, changed state to up
+Jun  6 12:05:14.131: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/0, changed state to up
+router(config-if)#exit
+router(config)#service dhcp
+router(config)#ip dhcp excluded-address 192.168.0.1 192.168.0.10
+router(config)#ip dhcp pool RED-1
+router(dhcp-config)#network 192.168.0.0 255.255.255.0
+router(dhcp-config)#default-router 192.168.0.1
+router(dhcp-config)#dns-server 8.8.8.8
+router(dhcp-config)#exit
+router(config)#exit
+router#wr
+Jun  6 12:07:38.103: %SYS-5-CONFIG_I: Configured from console by console
+router#wr
+Building configuration...
+[OK]
+router#show ip dhcp pool
+
+Pool RED-1 :
+ Utilization mark (high/low)    : 100 / 0
+ Subnet size (first/next)       : 0 / 0
+ Total addresses                : 254
+ Leased addresses               : 0
+ Pending event                  : none
+ 1 subnet is currently in the pool :
+ Current index        IP address range                    Leased addresses
+ 192.168.0.1          192.168.0.1      - 192.168.0.254     0
+router#show ip dhcp binding
+Bindings from all pools not associated with VRF:
+IP address          Client-ID/              Lease expiration        Type
+                    Hardware address/
+                    User name
+router#show ip dhcp binding
+Bindings from all pools not associated with VRF:
+IP address          Client-ID/              Lease expiration        Type
+                    Hardware address/
+                    User name
+192.168.0.11        0100.5079.6668.00       Jun 07 2006 12:08 PM    Automatic
+192.168.0.12        0100.5079.6668.01       Jun 07 2006 12:09 PM    Automatic
+## Script ##

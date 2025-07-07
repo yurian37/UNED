@@ -1,0 +1,93 @@
+Provincias:
+
+Alajuela:
+
+Dirección de red: 172.12.0.0
+Máscara de bits: /22
+Máscara decimal: 255.255.252.0
+Wildcard: 0.0.3.255
+Dirección de broadcast: 172.12.3.255
+Primera IP utilizable: 172.12.0.1
+Última IP utilizable: 172.12.3.254
+
+Limón:
+
+Dirección de red: 172.12.4.0
+Máscara de bits: /21
+Máscara decimal: 255.255.248.0
+Wildcard: 0.0.7.255
+Dirección de broadcast: 172.12.7.255
+Primera IP utilizable: 172.12.4.1
+Última IP utilizable: 172.12.7.254
+
+San José:
+
+Dirección de red: 172.12.8.0
+Máscara de bits: /22
+Máscara decimal: 255.255.252.0
+Wildcard: 0.0.3.255
+Dirección de broadcast: 172.12.11.255
+Primera IP utilizable: 172.12.8.1
+Última IP utilizable: 172.12.11.254
+
+Cartago:
+
+Dirección de red: 172.12.12.0
+Máscara de bits: /22
+Máscara decimal: 255.255.252.0
+Wildcard: 0.0.3.255
+Dirección de broadcast: 172.12.15.255
+Primera IP utilizable: 172.12.12.1
+Última IP utilizable: 172.12.15.254
+
+Heredia:
+
+Dirección de red: 172.12.16.0
+Máscara de bits: /22
+Máscara decimal: 255.255.252.0
+Wildcard: 0.0.3.255
+Dirección de broadcast: 172.12.19.255
+Primera IP utilizable: 172.12.16.1
+Última IP utilizable: 172.12.19.254
+
+Puntarenas:
+
+Dirección de red: 172.12.20.0
+Máscara de bits: /23
+Máscara decimal: 255.255.254.0
+Wildcard: 0.0.1.255
+Dirección de broadcast: 172.12.21.255
+Primera IP utilizable: 172.12.20.1
+Última IP utilizable: 172.12.21.254
+
+
+Enlaces:
+Enlace_1:
+
+Dirección de red: 172.12.22.0
+Máscara de bits: /30
+Máscara decimal: 255.255.255.252
+Wildcard: 0.0.0.3
+Dirección de broadcast: 172.12.22.3
+Primera IP utilizable: 172.12.22.1
+Última IP utilizable: 172.12.22.2
+
+Enlace_2:
+
+Dirección de red: 172.12.22.4
+Máscara de bits: /30
+Máscara decimal: 255.255.255.252
+Wildcard: 0.0.0.3
+Dirección de broadcast: 172.12.22.7
+Primera IP utilizable: 172.12.22.5
+Última IP utilizable: 172.12.22.6
+
+Enlace_3:
+
+Dirección de red: 172.12.22.8
+Máscara de bits: /30
+Máscara decimal: 255.255.255.252
+Wildcard: 0.0.0.3
+Dirección de broadcast: 172.12.22.11
+Primera IP utilizable: 172.12.22.9
+Última IP utilizable: 172.12.22.10

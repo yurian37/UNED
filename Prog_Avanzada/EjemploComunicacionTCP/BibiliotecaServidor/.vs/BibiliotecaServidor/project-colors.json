@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af1276c3-4d8a-4e8b-b2ab-d80cfb73e0cb": {
+      "ProjectGuid": "af1276c3-4d8a-4e8b-b2ab-d80cfb73e0cb",
+      "DisplayName": "BibiliotecaServidor.Datos",
+      "ColorIndex": 0
+    },
+    "066e11e8-b4d4-48c2-b9f2-1d67cc467f09": {
+      "ProjectGuid": "066e11e8-b4d4-48c2-b9f2-1d67cc467f09",
+      "DisplayName": "BibiliotecaServidor.Interfaz",
+      "ColorIndex": 1
+    },
+    "a69ced46-00d8-4bf2-b975-993fb1c289ed": {
+      "ProjectGuid": "a69ced46-00d8-4bf2-b975-993fb1c289ed",
+      "DisplayName": "BibiliotecaServidor.Entidades",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

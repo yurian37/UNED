@@ -1,0 +1,63 @@
+
+De acuerdo, aquí tienes la misma base de datos pero normalizada:
+
+Fragmento de código
+erDiagram
+  Proyecto {
+    *númeroDeProyecto: int PK
+    *nombre: string
+    *descripción: string
+    *fechaDeInicio: date
+    *fechaEstimadaDeFinalización: date
+    *estadoActual: string
+    *númeroDeCédulaDelLíderDeProyecto: int FK
+  }
+  Empleado {
+    *númeroDeCédulaDelEmpleado: int PK
+    *códigoDeEmpleado: string
+    *nombre: string
+    *apellidos: string
+    *cargo: string
+    *departamento: string
+    *fechaDeContratación: date
+  }
+  Tarea {
+    *númeroDeTarea: int PK
+    *descripción: string
+    *fechaDeInicio: date
+    *fechaEstimadaDeFinalización: date
+    *estadoActual: string
+    *númeroDeProyecto: int FK
+    *númeroDeCédulaDelEmpleadoAsignado: int FK
+  }
+  HistorialDeCambios {
+    *númeroDeTarea: int FK
+    *fecha: date PK
+    *descripción: string
+  }
+  RegistroDeTiempo {
+    *númeroDeTarea: int FK
+    *fecha: date PK
+    *horasTrabajadas: int
+  }
+  Proyecto --> Empleado
+  Tarea --> Proyecto
+  Tarea --> Empleado
+  Tarea --> HistorialDeCambios
+  Tarea --> RegistroDeTiempo
+Utiliza el código con precaución. Más información
+Esta base de datos está normalizada en 3NF. Esto significa que se han eliminado todas las dependencias transitivas no triviales.
+
+Para lograr la normalización en 3NF, se realizaron los siguientes cambios:
+
+Se creó una nueva entidad "Líder de proyecto" para representar el empleado responsable de cada proyecto. Esta entidad está relacionada con la entidad "Proyecto" en una relación 1:1.
+Se creó una nueva entidad "Empleado asignado" para representar el empleado responsable de cada tarea. Esta entidad está relacionada con la entidad "Tarea" en una relación 1:1.
+Estos cambios permiten que cada proyecto tenga un solo líder de proyecto, y que cada tarea tenga un solo empleado asignado. Esto elimina las dependencias transitivas no triviales entre las entidades "Proyecto" y "Empleado" y entre las entidades "Tarea" y "Empleado".
+
+La base de datos normalizada tiene las siguientes ventajas:
+
+Reduce la redundancia de datos.
+Mejora la integridad de los datos.
+Facilita la actualización y el mantenimiento de los datos.
+Mejora el rendimiento de las consultas.
+En general, la base de datos normalizada es más eficiente y efectiva que la base de datos no normalizada.

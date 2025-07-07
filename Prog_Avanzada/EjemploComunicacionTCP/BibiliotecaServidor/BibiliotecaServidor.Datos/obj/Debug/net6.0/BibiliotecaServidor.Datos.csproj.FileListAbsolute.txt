@@ -1,0 +1,26 @@
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\BibiliotecaServidor.Datos.deps.json
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\BibiliotecaServidor.Datos.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\ref\BibiliotecaServidor.Datos.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\BibiliotecaServidor.Datos.pdb
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\BibiliotecaServidor.Entidades.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\BibiliotecaServidor.Entidades.pdb
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.csproj.AssemblyReference.cache
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.csproj.CoreCompileInputs.cache
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.csproj.CopyComplete
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\ref\BibiliotecaServidor.Datos.dll
+D:\OneDrive\UNED\Tutorias\830\Tutoria IV\Ejemplos\Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\BibiliotecaServidor.Datos.deps.json
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\BibiliotecaServidor.Datos.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\BibiliotecaServidor.Datos.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\BibiliotecaServidor.Entidades.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\bin\Debug\net6.0\BibiliotecaServidor.Entidades.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.csproj.AssemblyReference.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.csproj.CoreCompileInputs.cache
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.csproj.CopyComplete
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\refint\BibiliotecaServidor.Datos.dll
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\BibiliotecaServidor.Datos.pdb
+C:\Users\juann\Desktop\UNED\830\Ejemplos\4 - Sistema Biblioteca\BibiliotecaServidor\BibiliotecaServidor.Datos\obj\Debug\net6.0\ref\BibiliotecaServidor.Datos.dll

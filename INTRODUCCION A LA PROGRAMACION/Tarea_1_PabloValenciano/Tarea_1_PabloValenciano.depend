@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1676564700 source:c:\uned\introduccion a la programacion\tarea_1_pablovalenciano\main.cpp
+	<iostream>
+	"Number_Class.h"
+
+1676564365 c:\uned\introduccion a la programacion\tarea_1_pablovalenciano\include\number_class.h
+	<iostream>
+	<string>
+

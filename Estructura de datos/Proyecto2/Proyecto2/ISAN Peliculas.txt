@@ -1,0 +1,7 @@
+Batman: The Dark Knight        ISAN 0000-0001-EDDD-0000-4-0000-0000-P
+Godzilla Vs. Kong	       ISAN 0000-0005-DA63-0000-K-0000-0000-E
+Despicable Me                  ISAN 0000-0002-847B-0000-1-0000-0000-Y
+Jurassic Park                  ISAN 0000-0000-73AF-0000-6-0000-0000-J
+Oppenheimer 	               ISAN 0000-0006-FF88-0000-C-0000-0000-1
+
+Pagina para encontrar el GUID de cada pelicula: https://web.isan.org/public/en/search?domain=search
